@@ -9,5 +9,5 @@ hostname
 df -h 
 
 free -g
-
+sleep 1000
 echo "goodbye"
