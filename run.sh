@@ -8,6 +8,6 @@ hostname
 
 df -h 
 
-free - g
+free -g
 
 echo "goodbye"
