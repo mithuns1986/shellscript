@@ -4,4 +4,10 @@ echo "This is coming from GitHUb"
 
 date 
 
-echo "bye"
+hostname 
+
+df -h 
+
+free - g
+
+echo "goodbye"
